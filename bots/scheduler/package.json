@@ -31,5 +31,6 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"@breejs/later": "^4.2.0"
 	}
 }
